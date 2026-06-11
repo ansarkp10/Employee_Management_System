@@ -2,7 +2,6 @@
 
 A comprehensive MERN (MongoDB, Express.js, React, Node.js) stack application for managing employees and attendance with integrated face recognition technology.
 
-## 📸 Screenshots
 
 ### Dashboard Overview
 ![Dashboard](image1.png)
